@@ -16,3 +16,4 @@ In figure 1, apply a small voltage at a-a and measure the short circuit current 
 									  <figcaption>[Fig 2: Circuit for analysis of reciprocity theorem with source along b-b]</figcaption>
 									</figure<br>
 									<br><br><br>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
