@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Verify the reciprocity theorem for the given figure-1 and figure 2.<br/><p style=\"text-align:center\"><img src=\"images/reci1.jpg\" style=\"width:490px;height:300px;\"></p>",
+      "answers": {
+        "a": "2.597∠162.64° Amp",
+        "b": "1.597∠162.64° Amp",
+        "c": "0.597∠162.64° Amp",
+        "d": "3.597∠162.64°Amp"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For the Reciprocity Theorem to satisfy the ratio of response to excitation before and after the source is replaced should be?",
+      "answers": {
+        "a": "different",
+        "b": "same",
+        "c": "before source is replaced is greater than after the source is replaced",
+        "d": "before source is replaced is less than after the source is replaced"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    } 
+  ]
+}
